@@ -1,0 +1,20 @@
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\KutuphaneYonetim\bin\Debug\KutuphaneYonetim.exe.config
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\KutuphaneYonetim\bin\Debug\KutuphaneYonetim.exe
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\KutuphaneYonetim\bin\Debug\KutuphaneYonetim.pdb
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.csproj.AssemblyReference.cache
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.Form1.resources
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.Properties.Resources.resources
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.csproj.GenerateResource.cache
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.csproj.CoreCompileInputs.cache
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.exe
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.pdb
+C:\Users\sezgi\Desktop\Yeni klasör (3)\NESNETABANLI\KutuphaneYonetim\bin\Debug\KutuphaneYonetim.exe.config
+C:\Users\sezgi\Desktop\Yeni klasör (3)\NESNETABANLI\KutuphaneYonetim\bin\Debug\KutuphaneYonetim.exe
+C:\Users\sezgi\Desktop\Yeni klasör (3)\NESNETABANLI\KutuphaneYonetim\bin\Debug\KutuphaneYonetim.pdb
+C:\Users\sezgi\Desktop\Yeni klasör (3)\NESNETABANLI\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.csproj.AssemblyReference.cache
+C:\Users\sezgi\Desktop\Yeni klasör (3)\NESNETABANLI\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.Form1.resources
+C:\Users\sezgi\Desktop\Yeni klasör (3)\NESNETABANLI\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.Properties.Resources.resources
+C:\Users\sezgi\Desktop\Yeni klasör (3)\NESNETABANLI\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.csproj.GenerateResource.cache
+C:\Users\sezgi\Desktop\Yeni klasör (3)\NESNETABANLI\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.csproj.CoreCompileInputs.cache
+C:\Users\sezgi\Desktop\Yeni klasör (3)\NESNETABANLI\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.exe
+C:\Users\sezgi\Desktop\Yeni klasör (3)\NESNETABANLI\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.pdb
